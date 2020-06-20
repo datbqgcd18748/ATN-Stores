@@ -429,7 +429,7 @@ body,
 /*==========start product_section===========*/
 
 .product_section {
-    background-image: url(../images/cannabis-shop-title-bg.png);
+    background-image: url(static_in_env/img/cannabis-shop-title-bg.png);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -606,7 +606,7 @@ body,
 
 .service {
     padding: 35px 0;
-    background-image: url(../images/wp-newletter-shop2.jpg);
+    background-image: url(static_in_env/img/wp-newletter-shop2.jpg);
     background-size: cover;
     background-position: center;
 }
