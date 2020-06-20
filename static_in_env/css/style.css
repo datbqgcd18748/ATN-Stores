@@ -84,7 +84,7 @@ body,
 /*=============header============*/
 
 .header {
-    background-image: url("{% static 'images/footer-bg-1.png' %}");
+    background-image: url("https://png.pngtree.com/template/20190716/ourlarge/pngtree-skateboard-logo-design-icon-vector-image_228902.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
