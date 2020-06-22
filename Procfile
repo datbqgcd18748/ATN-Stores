@@ -1,1 +1,1 @@
-web: gunicorn ATNcompany.wsgi --log-file -
+web: gunicorn ATN.wsgi --log-file -
